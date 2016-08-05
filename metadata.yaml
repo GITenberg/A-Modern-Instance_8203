@@ -1,0 +1,31 @@
+_repo: A-Modern-Instance_8203
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: An unflinching portrait of an unhappy marriage, A Modern Instance examines
+  a couple's personal conflicts as the effects of commercial progress and rapid changes
+  in social and religious institutions. Howells's novel ends with the hero barred
+  by his over-scrupulous conscience from marrying the divorced heroine.
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Modern Instance
+url: http://www.gutenberg.org/ebooks/8203
