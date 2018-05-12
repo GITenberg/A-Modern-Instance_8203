@@ -1,5 +1,8 @@
 _repo: A-Modern-Instance_8203
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -15,6 +18,8 @@ description: An unflinching portrait of an unhappy marriage, A Modern Instance e
   a couple's personal conflicts as the effects of commercial progress and rapid changes
   in social and religious institutions. Howells's novel ends with the hero barred
   by his over-scrupulous conscience from marrying the divorced heroine.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8203#A-Modern-Instance
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
